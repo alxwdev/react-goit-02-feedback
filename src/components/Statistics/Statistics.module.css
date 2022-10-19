@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  font-weight: 700;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-bottom: 1px dotted grey;
+}

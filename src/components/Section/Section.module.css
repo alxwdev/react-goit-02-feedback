@@ -1,0 +1,14 @@
+.section {
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 340px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.title {
+  margin-bottom: 10px;
+  text-align: center;
+}
